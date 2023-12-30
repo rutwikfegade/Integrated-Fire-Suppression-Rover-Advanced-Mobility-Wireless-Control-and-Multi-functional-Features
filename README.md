@@ -1,4 +1,4 @@
-## AgniYantram the versatile rover
+# AgniYantram the versatile rover
 In this project, we aim to create a rover that can 
 navigate its way into a burning structure and extinguish the 
 fire. That will ensure that no human is exposed to the extreme 
@@ -21,7 +21,7 @@ be included that will educate non-professional users. This
 project can be used not only by the fire service but also by non-profit organizations such as movie theatres and residential 
 complexes.
 
-# Key Problem-Solving Features:
+## Key Problem-Solving Features:
 
 Adaptable Extinguishing Mechanisms: Fires can vary significantly in terms of accelerants and origin. AgniYantram tackles this challenge by incorporating three distinct extinguishers – water-based, sound-based, and chemical-ball based. This adaptability ensures effective firefighting across a wide spectrum of fire types.
 
@@ -33,7 +33,7 @@ Systematic Incident Recording: The cloud-connected mobile app archives previous 
 
 User-Friendly Education Component: AgniYantram incorporates a user-friendly FAQs component within the mobile app. This educational feature caters to non-professional users, ensuring that individuals in settings such as movie theaters and residential complexes can effectively utilize the rover during emergency situations.
 
-# Issues Addressed:
+## Issues Addressed:
 
 Human Safety: AgniYantram significantly reduces the risk to human lives by offering an autonomous firefighting solution that minimizes direct human exposure to dangerous fire conditions.
 
