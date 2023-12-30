@@ -21,6 +21,30 @@ be included that will educate non-professional users. This
 project can be used not only by the fire service but also by non-profit organizations such as movie theatres and residential 
 complexes.
 
+# Key Problem-Solving Features:
+
+Adaptable Extinguishing Mechanisms: Fires can vary significantly in terms of accelerants and origin. AgniYantram tackles this challenge by incorporating three distinct extinguishers – water-based, sound-based, and chemical-ball based. This adaptability ensures effective firefighting across a wide spectrum of fire types.
+
+Terrain Navigation and Obstacle Handling: Traditional firefighting scenarios often involve navigating through debris and challenging terrain. AgniYantram's robust six-wheel configuration enables it to traverse obstacles seamlessly, making it well-suited for scenarios where traditional firefighting equipment may struggle.
+
+Remote Monitoring and Control: The inclusion of an IP camera at the front of the rover, coupled with a cloud-connected mobile app (AgniYantram app), allows for real-time remote monitoring and control. This addresses the critical issue of minimizing human exposure to extreme heat and smoke by enabling operators to manage the rover from a safe distance.
+
+Systematic Incident Recording: The cloud-connected mobile app archives previous video clips systematically, providing a valuable resource for fire departments. This feature facilitates incident review, note-taking, and the development of informed firefighting strategies based on historical data.
+
+User-Friendly Education Component: AgniYantram incorporates a user-friendly FAQs component within the mobile app. This educational feature caters to non-professional users, ensuring that individuals in settings such as movie theaters and residential complexes can effectively utilize the rover during emergency situations.
+
+# Issues Addressed:
+
+Human Safety: AgniYantram significantly reduces the risk to human lives by offering an autonomous firefighting solution that minimizes direct human exposure to dangerous fire conditions.
+
+Diverse Fire Scenarios: Traditional firefighting equipment may struggle with diverse fire types. AgniYantram's adaptability addresses this issue, providing a versatile solution for various accelerants and fire origins.
+
+Efficient Terrain Navigation: Navigating through challenging environments is a common hurdle in firefighting. The rover's robust design ensures efficient traversal across different terrains and obstacles.
+
+Historical Incident Analysis: The systematic recording of incidents allows fire departments to analyze past events, make informed decisions, and continuously enhance firefighting strategies.
+
+AgniYantram not only introduces cutting-edge technology to the firefighting domain but also serves as a multifaceted solution to critical issues faced by emergency responders and non-professional users alike.
+
 
 ![IMG-20220507-WA0005](https://user-images.githubusercontent.com/69248756/172641023-d2c7e620-9cac-44ae-b664-342b4570ed6a.jpg)
 
