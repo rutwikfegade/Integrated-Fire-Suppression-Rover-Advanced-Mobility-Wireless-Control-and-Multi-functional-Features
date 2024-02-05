@@ -1,4 +1,6 @@
-# AgniYantram the versatile rover
+# Integrated Fire Suppression Rover: Advanced Mobility, Wireless Control, and Multi-functional Feature
+
+## AgniYantram the versatile rover
 In this project, we aim to create a rover that can 
 navigate its way into a burning structure and extinguish the 
 fire. That will ensure that no human is exposed to the extreme 
