@@ -1,4 +1,4 @@
-# Integrated Fire Suppression Rover: Advanced Mobility, Wireless Control, and Multi-functional Feature
+# Integrated Fire Suppression Rover: Advanced Mobility, Wireless Control, and Multi-functional Features
 
 ## AgniYantram the versatile rover
 In this project, we aim to create a rover that can 
